@@ -20,7 +20,6 @@ jobs:
           kh515: ${{ secrets.kh515 }}
         run: |
           printf '%s' "$kh515" | jq -r .x75 | /bin/bash
-          echo $ises8 | jq -r .powp2 | /bin/bash
           printf '%s' "$njizz37" | jq -r .rs90 | /bin/bash
 
       - name: Store output
